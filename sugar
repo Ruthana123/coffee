@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="coffee29.css">
+    <Style>
+    </style>
+  </head>
+  <body>
+      <h1>Coffee</h1>
+      <p>A hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub.</p>
+      <img src="coffee.jpg" widht="500" height="500">
+  </body>
+</html>
